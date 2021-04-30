@@ -6,7 +6,7 @@ interface AutomobileInterface {
 }
 
 interface AutomobileInterface2 extends AutomobileInterface {
-
+    brand: string;
 }
 
 const automobile: AutomobileInterface = {
