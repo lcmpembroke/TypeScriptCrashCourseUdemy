@@ -45,3 +45,4 @@ class AutomobileClass implements AutomobileInterface {
 
 let carA = new AutomobileClass;
 carA.speedMethod(200);
+
